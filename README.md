@@ -1,4 +1,4 @@
-# 🌡️ BME680 Temperature Sensor with DOG LCD Display on AVR
+# 🌡️ BME680 Temperature Sensor with DOG LCD Display with AVR
 
 This project demonstrates how to interface a BME680 environmental sensor and a DOG LCD with an AVR microcontroller using I2C and SPI protocols.
 The BME680 sensor provides raw temperature readings, and the LCD is used to display data.
